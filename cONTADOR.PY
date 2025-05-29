@@ -6,3 +6,6 @@ print('nome:',nome)
 print('idadade:',idade)
 print('email:',email)
 print('senha:',senha)
+senha==(nemesis)
+if senha == (nemesis):
+    print("senha incorreta")
