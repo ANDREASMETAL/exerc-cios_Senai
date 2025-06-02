@@ -22,7 +22,7 @@ else:
     classificacao = "obesidade morbida grau 3 (vix, deitou sem sono mano)"
 
 if imc >=30.0:
-    msg_personalizada = "cuidado barrigudin, o big mc pesou hoje né"
+    msg_personalizada = "cuidado barrigudin, academia faz bem viu"
 else:
     msg_personalizada = "tudo certo parceiro"
 print('|',30*'-','|')

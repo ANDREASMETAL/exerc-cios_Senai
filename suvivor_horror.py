@@ -13,7 +13,7 @@ st.sidebar.title('Datas')
 tab1, tab2, tab3, tab4, tab5 = st.tabs(['playstation one', 'Sega saturn', 'Nintendo Gamecub', 'Dreamcast','Playstation2'])
 
 with tab1:
-    st.title('Jogos De Suvivor Horror')
+    st.title('Jogos De Suvival Horror')
     st.subheader('Os principais:')
     st.write('''
  - Resident Evil 1
@@ -21,9 +21,12 @@ with tab1:
  - Resident Evil 3
  - Silent Hill
  - Alone In The Dark New Nigthmare
-- Nigthmare Criatures''')
+- Nigthmare Criatures
+- Parasit Eve 1
+- Parasit Eve 2
+- D''')
 with tab2:
-    st.title('Jogos De Suvivor Horror')
+    st.title('Jogos De Suvival Horror')
     st.subheader('Os principais:')
     st.write ('''
 - Resident Evil 1
@@ -31,11 +34,14 @@ with tab2:
 - The House Of Dead
 - Alone In The Dark 2''')
 with tab3:
-    st.title('Jogos De Suvivor Horror')
+    st.title('Jogos De Suvival Horror')
     st.subheader('Os principais:')
     st.write ('''
 - Resident Evil 0
 - Resident Evil Remake
 - Resident Evil 2
 - Resident Evil 3
-- Resident Evil 4''')
+- Resident Evil 4
+- Resident Evil COD Veronica
+- Eternal Darkness''')
+
